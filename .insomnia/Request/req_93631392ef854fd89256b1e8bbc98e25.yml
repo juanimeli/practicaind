@@ -1,0 +1,25 @@
+_id: req_93631392ef854fd89256b1e8bbc98e25
+type: Request
+parentId: wrk_5d7fa452c81049e49b7b70e07868b49e
+modified: 1675879290275
+created: 1675879171175
+url: www.google.com
+name: REQUEST TESTTTTTTT
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_48d5b8f6041046a48b14b25bf3cd77ca
+    name: test
+    value: test
+    description: ""
+authentication: {}
+metaSortKey: -1675879171175
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
